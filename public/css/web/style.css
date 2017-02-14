@@ -1,0 +1,18 @@
+body{
+    background: #e9eaed;
+}
+
+.navbarActive{
+	border-bottom: 2px solid #0073b7;	
+}
+
+.forumPanelBarActive{
+	border-bottom:2px solid #0073b7;
+}
+
+.ellipsis{
+	display:block;
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+}
